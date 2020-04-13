@@ -1,0 +1,16 @@
+{
+  "name": "react-slack-rich-content",
+  "version": "0.1.0",
+  "description": "Render Slack message rich content blocks as React components and HTML",
+  "main": "index.js",
+  "author": "Andrew Jones <aej11@hotmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/aej11a/react-slack-rich-content",
+  "peerDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
+}
